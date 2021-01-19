@@ -105,7 +105,6 @@
 				<option value="<?php echo $cirujano[0] ?>">
 					<?php echo $cirujano[1]." ".$cirujano[2]." ".$cirujano[3] ?>
 				</option>
-        
 			<?php endforeach; ?>
       </select>
        </div>
